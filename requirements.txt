@@ -1,1 +1,2 @@
 Django>=4.2.3, <4.3
+git+https://github.com/azure-samples/ms-identity-python-utilities@main
